@@ -10,6 +10,7 @@ packages = [{include = "numpy_practice"}]
 python = "^3.10"
 numpy = "^1.24.1"
 pandas = "^1.5.2"
+matplotlib = "^3.6.3"
 
 
 [tool.poetry.group.dev.dependencies]
